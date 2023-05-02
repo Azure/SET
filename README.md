@@ -6,7 +6,7 @@ This repository is owned and maintained by Microsoft Stratetic Engagement Team (
 
 See more information under each product, service or solution area below:
 
-- [Azure Data Manager for Energy](./Azure%20Data%20Manager%20for%20Energy/)
+- [Azure Data Manager for Energy](./Content/Azure%20Data%20Manager%20for%20Energy/)
 
 ## Contributing
 
