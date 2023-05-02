@@ -2,6 +2,12 @@
 
 This repository is owned and maintained by Microsoft Stratetic Engagement Team (SET) for Energy.
 
+## Products
+
+See more information under each product, service or solution area below:
+
+- [Azure Data Manager for Energy](./Azure%20Data%20Manager%20for%20Energy/)
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
