@@ -61,8 +61,8 @@ Interactive login is the default authentication method. This will use open an in
 3. Double click on the ADME folder and Select the *Authorization* tab on the right hand pane
 4. Scroll to the bottom and click `Get New Access Token`
 ![screenshot of Postman Oauth2 configuration](./img/postman-oauth2.png)
-4. A new tab will open in your browser, complete the sign-in. *Note that you may have to allow pop-ups in your browser the first time.*
-5. **You should now have obtained an Access Token to consume the APIs**
+5. A new tab will open in your browser, complete the sign-in. *Note that you may have to allow pop-ups in your browser the first time.*
+6. **You should now have obtained an Access Token to consume the APIs**
 
 #### Service Principal (App Registration)
 Follow the procedure for [User Token](#user-token), but change the `Grant Type` to ***`Client Credentials`***.
