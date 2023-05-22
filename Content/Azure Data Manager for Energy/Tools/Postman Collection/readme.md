@@ -58,7 +58,8 @@ Interactive login is the default authentication method. This will use open an in
     https://oauth.pstmn.io/v1/callback
     ```
 2. Go to the top folder of the ADME API collection you have imported
-3. Scroll to the bottom and click `Get New Access Token`
+3. Double click on the ADME folder and Select the *Authorization* tab on the right hand pane
+4. Scroll to the bottom and click `Get New Access Token`
 ![screenshot of Postman Oauth2 configuration](./img/postman-oauth2.png)
 4. A new tab will open in your browser, complete the sign-in. *Note that you may have to allow pop-ups in your browser the first time.*
 5. **You should now have obtained an Access Token to consume the APIs**
@@ -72,7 +73,7 @@ Manual authentication requires some additional manual steps to generate the auth
 
 #### User Token
 1. Go to the ADME API collection you have imported.
-2. Select the top folder and choose the *Authorization* tab.
+2. Double click on the ADME folder and Select the *Authorization* tab on the right hand pane.
 3. Change *Type* to `Bearer Token` and add {{access_token}} as the *Token* value.
 4. Generate an `authentication code` by navigating to the following URL (replace {values} with your information):
 ```
